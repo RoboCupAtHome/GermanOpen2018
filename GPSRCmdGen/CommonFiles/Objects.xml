@@ -18,19 +18,19 @@
     <object name="coke"        difficulty="easy"      canPour="true" />
     <object name="malz"        difficulty="easy"      canPour="true" alcoholic="true" />
     <object name="mixdrink"    difficulty="easy"      canPour="true" alcoholic="true" />
-    <object name="orange"      difficulty="easy"      canPour="true" />
-    <object name="peppermint"  difficulty="moderate"  />
+    <object name="orange juice"      difficulty="easy"      canPour="true" />
+    <object name="peppermint tea"  difficulty="moderate"  />
     <object name="water"       difficulty="easy"      canPour="true" />
   </category>
   <category name="snack" defaultLocation="kitchen cabinet" room="kitchen">
     <object name="cookies"     difficulty="moderate"  />
-    <object name="fruit"       difficulty="easy"      />
+    <object name="fruit bar"       difficulty="easy"      />
     <object name="kinder"      difficulty="moderate"  />
     <object name="nuts"        difficulty="easy"      />
   </category>
   <category name="food" defaultLocation="cabinet" room="kitchen">
     <object name="apple"       difficulty="easy"      fruit="true" />
-    <object name="green"       difficulty="easy"      fruit="true" />
+    <object name="green paprika"       difficulty="easy"      fruit="true" />
     <object name="kiwi"        difficulty="moderate"  fruit="true" />
     <object name="lemon"       difficulty="moderate"  fruit="true" />
     <object name="noodles"     difficulty="easy"      />
