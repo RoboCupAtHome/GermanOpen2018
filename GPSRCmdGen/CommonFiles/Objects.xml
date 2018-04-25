@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <categories>
-  <category name="care" defaultLocation="cupboard" room="living room">
+  <category name="care" defaultLocation="bookcase" room="living room">
     <object name="shower gel"  difficulty="easy"     />
     <object name="soap"        difficulty="moderate" />
     <object name="tooth paste" difficulty="easy"     />
   </category>
-  <category name="cleaning stuff" defaultLocation="storage shelf" room="dining room">
+  <category name="cleaning stuff" defaultLocation="kitchen cabinet" room="dining room">
     <object name="sponge"      difficulty="moderate" />
     <object name="wiper"       difficulty="high"     />
   </category>
-  <category name="container" defaultLocation="cabinet" room="dining room">
+  <category name="container" defaultLocation="cupboard" room="dining room">
     <object name="tray"        difficulty="high"     type="special" canPlaceOn="true" twoHands="true" />
     <object name="box"         difficulty="high"     type="special" canPlaceIn="true" twoHands="true" />
   </category>
-  <category name="drink" defaultLocation="bar" room="kitchen">
+  <category name="drinks" defaultLocation="kitchen table" room="kitchen">
     <object name="cacao"       difficulty="easy"      />
     <object name="coke"        difficulty="easy"      canPour="true" />
     <object name="malz"        difficulty="easy"      canPour="true" alcoholic="true" />
@@ -22,7 +22,7 @@
     <object name="peppermint tea"  difficulty="moderate"  />
     <object name="water"       difficulty="easy"      canPour="true" />
   </category>
-  <category name="snack" defaultLocation="kitchen cabinet" room="kitchen">
+  <category name="snacks" defaultLocation="couch table" room="kitchen">
     <object name="cookies"     difficulty="moderate"  />
     <object name="fruit bar"       difficulty="easy"      />
     <object name="kinder"      difficulty="moderate"  />
