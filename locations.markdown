@@ -2,6 +2,7 @@
 
 ## Bedroom
 
+
 * bed
 * desk
 * bookcase
@@ -29,3 +30,14 @@
 * cabinet
 * display case
 * storage shelf
+
+
+
+# Default locations
+
+* kitchen stuff on kitchen cabinet
+* snacks on couch table
+* drinks on kitchen table
+* food in cabinet
+* care in bookcase
+* container on cupboard
