@@ -5,23 +5,27 @@
 * bed
 * desk
 * bookcase
-* bedside table
+* side table
+
+
+## Kitchen
+
+* bar
+* kitchen table
+* kitchen cabinet
+* sink
+
+
+## Living Room
+
+* tv table
+* cupboard
+* couch
+* couch table
 
 ## Dining Room
 
 * dining table
-* cupboard
-
-## Kitchen
-
-* sink
-* kitchen cabinet
-* kitchen table
-* bar table
-
-## Living Room
-
-* tv
-* couch
-* couch table
-* armchair
+* cabinet
+* display case
+* storage shelf
