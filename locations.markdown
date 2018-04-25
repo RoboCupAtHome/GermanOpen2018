@@ -35,7 +35,7 @@
 
 # Default locations
 
-* kitchen stuff on kitchen cabinet
+* cleaning stuff on kitchen cabinet
 * snacks on couch table
 * drinks on kitchen table
 * food in cabinet
