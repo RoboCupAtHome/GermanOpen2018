@@ -6,6 +6,20 @@ Slides as shown on screen are available:
 
 https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
+# Task Information Friday
+
+## GPSR
+
+![GPSR Map](gpsr/gpsr_map.png "GPSR Map")
+
+## Help Me Carry
+
+![Help Me Carry Map](gpsr/help_me_carry_map.png "Help Me Carry Map")
+
+## Cocktail Party (SSPL only)
+
+![Cocktail Party Map](cocktail_party/cocktail_party_map.png "Cocktail Party Map")
+
 # Team Order
 
 ## Robot Inspection
