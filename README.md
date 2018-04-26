@@ -17,6 +17,17 @@ https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 * 13:20 b-it-bots
 * 13:25 LiU@HomeWreckers
 
+## Speech and Person Recognition
+
+This task is divided into two rounds (after the first round you line up again in the same order):
+
+* b-it bots
+* LiU@HomeWreckers
+* homer
+* Tobi
+* Serious Cybernetics Corporation
+* Tech United
+
 ## Testing Slots
 
 ### Thursday
