@@ -14,7 +14,7 @@ https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
 ## Help Me Carry
 
-![Help Me Carry Map](gpsr/help_me_carry_map.png "Help Me Carry Map")
+![Help Me Carry Map](help_me_carry/help_me_carry_map.png "Help Me Carry Map")
 
 ## Cocktail Party (SSPL only)
 
