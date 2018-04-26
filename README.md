@@ -6,6 +6,20 @@ Slides as shown on screen are available:
 
 https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
+# Scores
+
+Scores are preliminary as of now
+
+| Team          | Speech And Person           |
+| ------------- |:---------------------------:|
+| b-it bots     | 0                           |
+| homer         | 140                         |
+| ToBi          | 78                          |
+| SCC           | 20                          |
+| Tech United   | 98                          |
+| Golem         | 75                          |
+
+
 # Task Information Friday
 
 ## GPSR
