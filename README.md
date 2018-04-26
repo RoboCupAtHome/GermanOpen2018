@@ -6,6 +6,17 @@ Slides as shown on screen are available:
 
 https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
+# Team Order
+
+## Robot Inspection
+
+* 13:00 homer
+* 13:05 ToBi
+* 13:10 Serious Cybernetics Corporation
+* 13:15 Tech United
+* 13:20 b-it-bots
+* 13:25 LiU@HomeWreckers
+
 ## Testing Slots
 
 ### Thursday
