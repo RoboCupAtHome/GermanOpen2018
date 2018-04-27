@@ -48,6 +48,16 @@ Scores are preliminary as of now
 
 # Team Order
 
+### Dishwasher / Set Up the Table
+
+* Tech United
+* Golem
+
+### Dishwasher 
+
+* Homer
+* SCC
+
 ## GPSR
 
 * 9:00 Tech United
