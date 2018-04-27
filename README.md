@@ -10,16 +10,16 @@ https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
 Scores are preliminary as of now
 
-| Team          | Speech And Person           | Poster | GPSR |
-| ------------- |:---------------------------:|:------:|:----:|
-| b-it bots     | 0                           | 29     | -    |
-| homer         | 140                         | 33     | 103  |
-| ToBi          | 78                          | 36     | 16   |
-| SCC           | 20                          | 31     | -    |
-| Tech United   | 98                          | 33     | 8    |
-| Golem         | 75                          | 33     | 20   |
-| Liu           | -                           | 33     | -    |
-| IRSA          | -                           | -      | -    |
+| Team          | Speech And Person           | Poster | GPSR | Help Me Carry | Sum |
+| ------------- |:---------------------------:|:------:|:----:|:-------------:|:---:|
+| b-it bots     | 0                           | 29     | -    | -             | 29  |
+| homer         | 140                         | 33     | 103  | 13            | 289 |
+| ToBi          | 78                          | 36     | 16   | 60            | 190 |
+| SCC           | 20                          | 31     | -    | -             | 51  |
+| Tech United   | 98                          | 33     | 8    | 28            | 167 |
+| Golem         | 75                          | 33     | 20   | 28            | 156 |
+| Liu           | -                           | 33     | -    | -             | 33  |
+| IRSA          | -                           | -      | -    | -             | -   |
 
 
 # Task Information Friday
