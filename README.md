@@ -103,7 +103,7 @@ This task is divided into two rounds (after the first round you line up again in
 * 15:00 Storing Groceries
 * 17:00 Cocktail Party
 * 18:00 Team Leader Meeting
-* 19:00 Dishwasher Test
+* 20:00 Dishwasher Test
 
 ### Saturday
 
