@@ -41,9 +41,8 @@ Scores are preliminary as of now
 
 * 9:00 Tech United
 * 9:10 ToBi
-* 9:20 Tech United
-* 9:30 homer
-* 9:40 Golem
+* 9:20 homer
+* 9:30 Golem
 
 ## Help Me Carry Order
 
