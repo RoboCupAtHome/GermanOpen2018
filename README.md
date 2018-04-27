@@ -24,6 +24,16 @@ Scores are preliminary as of now
 
 # Task Information Friday
 
+## Dishwasher Test / Set up the table
+
+![Dishwasher Map](dishwasher/dishwasher_map.png "Dishwasher / Set Up the Table Map")
+
+* There will be no cascade pod here in German Open
+* There is a diswasher tray either in the sink (considered to be the dishwasher) 
+  or on the kitchen table (when you plan to fill and then transport)
+* For Set Up the Table the initial cutlery position is on the tv Table
+* Provide us a menu in advance for the Set Up The Table task
+
 ## GPSR
 
 ![GPSR Map](gpsr/gpsr_map.png "GPSR Map")
