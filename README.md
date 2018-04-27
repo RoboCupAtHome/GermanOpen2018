@@ -37,6 +37,22 @@ Scores are preliminary as of now
 
 # Team Order
 
+## GPSR
+
+* 9:00 Tech United
+* 9:10 ToBi
+* 9:20 Tech United
+* 9:30 homer
+* 9:40 Golem
+
+## Help Me Carry Order
+
+* 12:00 ToBi
+* 12:05 Golem
+* 12:10 Tech United
+* 12:15 homer
+* 12:20 Serious Cybernetics Corporation
+
 ## Robot Inspection
 
 * 13:00 homer
