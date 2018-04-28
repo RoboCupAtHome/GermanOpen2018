@@ -46,9 +46,9 @@ Scores are preliminary as of now
 
 ### Order
 
-* homer & tech united
-* tobi & golem
-* scc
+* 16:00 homer & tech united
+* 16:15 tobi & golem
+* 16:30 scc
 
 ## Open Challenge
 
