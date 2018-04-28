@@ -24,12 +24,21 @@ Scores are preliminary as of now
 
 # Task Information Friday
 
+## EE-GPSR
+
+![EE GPSR Map](eegpsr/eegpsr_map.png "EE GPSR Map")
+
+* Two rounds:
+ * Round 1 9:00 - 9:45 <span style="color:blue">ToBi</span> and  <span style="color:red">Tech United</span>
+ * Round 2 9:45 - 10:30 <span style="color:blue">Homer</span> and <span style="color:red">Golem</span>
+ * Round 3 10:30 - 11:15 <span style="color:blue">SCC</span>
+
 ## Dishwasher Test / Set up the table
 
 ![Dishwasher Map](dishwasher/dishwasher_map.png "Dishwasher / Set Up the Table Map")
 
 * There will be no cascade pod here in German Open
-* There is a diswasher tray either in the sink (considered to be the dishwasher) 
+* There is a dishwasher tray either in the sink (considered to be the dishwasher) 
   or on the kitchen table (when you plan to fill and then transport)
 * For Set Up the Table the initial cutlery position is on the tv Table
 * Provide us a menu in advance for the Set Up The Table task
