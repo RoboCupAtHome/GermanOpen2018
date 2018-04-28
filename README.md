@@ -10,6 +10,8 @@ https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 
 Scores are preliminary as of now
 
+## Stage 1
+
 | Team          | Speech And Person           | Poster | GPSR | Help Me Carry |Storing Groceries| Sum |
 | ------------- |:---------------------------:|:------:|:----:|:-------------:|:---------------:|:---:|
 | b-it bots     | 0                           | 29     | -    | -             | 0               | 29  |
@@ -21,6 +23,19 @@ Scores are preliminary as of now
 | Liu           | -                           | 33     | -    | -             | -               | 33  |
 | IRSA          | -                           | -      | -    | -             | -               | -   |
 
+## Stage 2
+
+| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge | Restaurant    | Sum |
+| ------------- |:----:|:----------------------------:|:-------:|:----------------:|:-------------:|:---:|
+| b-it bots     | 29   | -                            | -       | -                | -             | 29  |
+| homer         | 289  | 130                          | -       | -                | -             | 399 |
+| ToBi          | 160  | -                            | -       | -                | -             | 160 |
+| SCC           | 51   | -                            | -       | -                | -             | 51  |
+| Tech United   | 171  | 10                           | -       | -                | -             | 181 |
+| Golem         | 159  | 10                           | -       | -                | -             | 169 |
+| Liu           | 33   | -                            | -       | -                | -             | 33  |
+| IRSA          | -    | -                            | -       | -                | -             | -   |
+
 
 # Task Information Friday
 
@@ -31,7 +46,6 @@ Scores are preliminary as of now
 * Two rounds:
  * Round 1 9:00 - 9:45 Robot 1: ToBi and  Robot 2:Tech United
  * Round 2 9:45 - 10:30 Robot 1: Homer and Robot 2: Golem
- * Round 3 10:30 - 11:15 Robot 1: SCC
 
 ## Dishwasher Test / Set up the table
 
@@ -106,11 +120,11 @@ This task is divided into two rounds (after the first round you line up again in
 
 ### Saturday
 
-* 11:00 ToBi
+* 11:00 Tech United
 * 11:15 Golem
 * 11:30 homer
 * 11:45 Serious Cybernetics Corporation
-* 12:00 Tech United
+* 12:00 ToBi
 * 12:15 b-it-bots
 
 Sorry it's just 15min, but more is not possible
