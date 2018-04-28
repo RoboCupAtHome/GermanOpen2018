@@ -25,19 +25,30 @@ Scores are preliminary as of now
 
 ## Stage 2
 
-| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge | Restaurant    | Sum |
-| ------------- |:----:|:----------------------------:|:-------:|:----------------:|:-------------:|:---:|
-| b-it bots     | 29   | -                            | -       | -                | -             | 29  |
-| homer         | 289  | 130                          | -       | -                | -             | 399 |
-| ToBi          | 160  | -                            | -       | -                | -             | 160 |
-| SCC           | 51   | -                            | -       | -                | -             | 51  |
-| Tech United   | 171  | 10                           | -       | -                | -             | 181 |
-| Golem         | 159  | 10                           | -       | -                | -             | 169 |
-| Liu           | 33   | -                            | -       | -                | -             | 33  |
-| IRSA          | -    | -                            | -       | -                | -             | -   |
+| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge   | Restaurant    | Sum |
+| ------------- |-----:|-------------------------------:|--------:|-----------------:|--------------:|----:|
+| b-it bots     | 29   | -                              | -       | -                | -             | 29  |
+| homer         | 289  | 130                            | 20      | 130              | 85            | 634 |
+| ToBi          | 160  | -                              | 0       | 67               | 0             | 227 |
+| SCC           | 51   | -                              | -       | 48               | -             | 99  |
+| Tech United   | 171  | 10                             | 0       | 63               | 50            | 294 |
+| Golem         | 159  | 10                             | 0       | 70               | 10            | 249 |
+| Liu           | 33   | -                              | -       | -                | -             | 33  |
+| IRSA          | -    | -                              | -       | -                | -             | -   |
 
 
 # Task Information Friday
+
+## Restaurant 
+
+* Location could be everywhere
+* Two robots at a time
+
+### Order
+
+* 16:00 homer & tech united
+* 16:15 tobi & golem
+* 16:30 scc
 
 ## Open Challenge
 
