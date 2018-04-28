@@ -26,12 +26,12 @@ Scores are preliminary as of now
 
 ## EE-GPSR
 
-![EE GPSR Map](eegpsr/eegpsr_map.png "EE GPSR Map")
+![EE GPSR Map](eegpsr/ee_gpsr_map.png "EE GPSR Map")
 
 * Two rounds:
- * Round 1 9:00 - 9:45 <span style="color:blue">ToBi</span> and  <span style="color:red">Tech United</span>
- * Round 2 9:45 - 10:30 <span style="color:blue">Homer</span> and <span style="color:red">Golem</span>
- * Round 3 10:30 - 11:15 <span style="color:blue">SCC</span>
+ * Round 1 9:00 - 9:45 Robot 1: ToBi and  Robot 2:Tech United
+ * Round 2 9:45 - 10:30 Robot 1: Homer and Robot 2: Golem
+ * Round 3 10:30 - 11:15 Robot 1: SCC
 
 ## Dishwasher Test / Set up the table
 
@@ -103,6 +103,17 @@ This task is divided into two rounds (after the first round you line up again in
 * Tech United
 
 ## Testing Slots
+
+### Saturday
+
+* 11:00 ToBi
+* 11:15 Golem
+* 11:30 homer
+* 11:45 Serious Cybernetics Corporation
+* 12:00 Tech United
+* 12:15 b-it-bots
+
+Sorry it's just 15min, but more is not possible
 
 ### Thursday
 
