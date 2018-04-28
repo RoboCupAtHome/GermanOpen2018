@@ -23,19 +23,18 @@ Scores are preliminary as of now
 | Liu           | -                           | 33     | -    | -             | -               | 33  |
 | IRSA          | -                           | -      | -    | -             | -               | -   |
 
-
 ## Stage 2
 
-| Team          | Stage 1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge   | Restaurant    | Sum |
-| ------------- |--------:|-------------------------------:|--------:|-----------------:|--------------:|----:|
-| b-it bots     | 29      | -                              | -       | -                | -             | 29  |
-| homer         | 289     | 130                            | 20      | 130              | 85            | 634 |
-| ToBi          | 160     | -                              | 0       | 67               | 0             | 227 |
-| SCC           | 51      | -                              | -       | 48               | -             | 99  |
-| Tech United   | 171     | 10                             | 0       | 63               | 50            | 294 |
-| Golem         | 159     | 10                             | 0       | 70               | 10            | 249 |
-| Liu           | 33      | -                              | -       | -                | -             | 33  |
-| IRSA          | -       | -                              | -       | -                | -             | -   |
+| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge   | Restaurant    | Sum |
+| ------------- |-----:|-------------------------------:|--------:|-----------------:|--------------:|----:|
+| b-it bots     | 29   | -                              | -       | -                | -             | 29  |
+| homer         | 289  | 130                            | 20      | 130              | 85            | 634 |
+| ToBi          | 160  | -                              | 0       | 67               | 0             | 227 |
+| SCC           | 51   | -                              | -       | 48               | 10            | 109 |
+| Tech United   | 171  | 10                             | 0       | 63               | 50            | 294 |
+| Golem         | 159  | 10                             | 0       | 70               | 10            | 249 |
+| Liu           | 33   | -                              | -       | -                | -             | 33  |
+| IRSA          | -    | -                              | -       | -                | -             | -   |
 
 
 # Final Information
@@ -93,8 +92,6 @@ Just 15 min, but more is not possible due to schedule
 * Two rounds:
  * Round 1 9:00 - 9:45 Robot 1: ToBi and  Robot 2:Tech United
  * Round 2 9:45 - 10:30 Robot 1: Homer and Robot 2: Golem
-
-# Task Information Friday
 
 ## Dishwasher Test / Set up the table
 
