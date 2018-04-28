@@ -39,6 +39,17 @@ Scores are preliminary as of now
 
 # Task Information Friday
 
+## Restaurant 
+
+* Location could be everywhere
+* Two robots at a time
+
+### Order
+
+* homer & tech united
+* tobi & golem
+* scc
+
 ## Open Challenge
 
 ### Testing Slots
