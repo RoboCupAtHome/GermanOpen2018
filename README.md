@@ -25,7 +25,7 @@ Scores are preliminary as of now
 
 ## Stage 2
 
-| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge | Restaurant    | Sum |
+| Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge   | Restaurant    | Sum |
 | ------------- |:----:|:------------------------------:|:-------:|:----------------:|:-------------:|:---:|
 | b-it bots     | 29   | -                              | -       | -                | -             | 29  |
 | homer         | 289  | 130                            | 20      | -                | -             | 419 |
