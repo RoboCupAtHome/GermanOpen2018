@@ -39,6 +39,29 @@ Scores are preliminary as of now
 
 # Task Information Friday
 
+## Open Challenge
+
+### Testing Slots
+
+* 11:00 Tech United
+* 11:15 Golem
+* 11:30 homer
+* 11:45 Serious Cybernetics Corporation
+* 12:00 ToBi
+* 12:15 b-it-bots
+
+Just 15 min, but more is not possible due to schedule
+
+### Order
+
+* 13:00 Tech United
+* 13:10 ToBi
+* 13:20 homer
+* 13:30 b-it bots
+* 13:40 Golem
+* 13:50 Serious Cybernetics Corporation
+
+
 ## EE-GPSR
 
 ![EE GPSR Map](eegpsr/ee_gpsr_map.png "EE GPSR Map")
@@ -118,16 +141,6 @@ This task is divided into two rounds (after the first round you line up again in
 
 ## Testing Slots
 
-### Saturday
-
-* 11:00 Tech United
-* 11:15 Golem
-* 11:30 homer
-* 11:45 Serious Cybernetics Corporation
-* 12:00 ToBi
-* 12:15 b-it-bots
-
-Sorry it's just 15min, but more is not possible
 
 ### Thursday
 
