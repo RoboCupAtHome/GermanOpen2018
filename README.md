@@ -23,6 +23,7 @@ Scores are preliminary as of now
 | Liu           | -                           | 33     | -    | -             | -               | 33  |
 | IRSA          | -                           | -      | -    | -             | -               | -   |
 
+
 ## Stage 2
 
 | Team          | Stage1 | Dishwasher / Set Up The Table| EE-GPSR | Open Challenge   | Restaurant    | Sum |
