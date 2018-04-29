@@ -43,10 +43,10 @@ Scores are preliminary as of now
 
 ## Testing Slots
 
-* 09:00 Golem
 * 09:20 ToBi
 * 09:40 Tech United
 * 10:00 homer
+* 10:20 Golem
 
 
 # Task Information Saturday
