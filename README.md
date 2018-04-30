@@ -11,8 +11,8 @@ https://userpages.uni-koblenz.de/~raphael/rc_go_2018_orga/rc.pdf
 | Team          | Stage 1+2 (Normalized, 50%) | Internal Jury (25%) | External Jury (25%) | Final Score | Final Rank |
 | ------------- |:---------------------------:|:-------------------:|:-------------------:|:-----------:|:----------:|
 | ToBi          | 0.36                        | 0.90                | 0.66                | 0.57        | 4          |
-| Golem         | 0.39                        | 1.00                | 0.63                | 0.63        | 3          |
-| Tech United   | 0.46                        | 0.86                | 0.70                | 0.70        | 2          |
+| Golem         | 0.39                        | 1.00                | 0.63                | 0.6         | 3          |
+| Tech United   | 0.46                        | 0.86                | 0.70                | 0.62        | 2          |
 | homer         | 1.00                        | 0.97                | 0.90                | 0.97        | 1          |
 
 # Scores
