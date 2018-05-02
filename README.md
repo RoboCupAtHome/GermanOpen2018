@@ -45,6 +45,12 @@ Scores are preliminary as of now
 | Liu           | 33   | -                              | -       | -                | -             | 33  |
 | IRSA          | -    | -                              | -       | -                | -             | -   |
 
+# Arena Model
+
+![Arena Model](./arena_model/arena_model_3d.png "3D Arena Model")
+
+The model by homer can be downloaded [here](arena_model/magdeburg_robocup_german_open_2018_model.dae)
+
 
 # Final Information
 
